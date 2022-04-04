@@ -1,2 +1,2 @@
 # GitExample
-깃 연습
+깃 연습 
